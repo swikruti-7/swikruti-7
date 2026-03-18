@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Swikruti Panda
 
-<!--
-**swikruti-7/swikruti-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
+📚 Currently learning DSA in Java & Backend Development
+🚀 Passionate about building scalable and real-world applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+### 💻 Programming Languages
+
+* Java (DSA)
+* JavaScript
+* C
+
+### 🌐 Frontend Development
+
+* HTML
+* CSS
+* JavaScript
+
+### ⚙️ Backend Development
+
+* Node.js (learning)
+* Express.js (learning)
+
+### 🛠️ Tools & Technologies
+
+* Git & GitHub
+* VS Code
+
+---
+
+## 📌 Projects
+
+* 🌦️ Weather App (HTML, CSS, JavaScript)
+* ✅ To-Do List Web App
+* 🔐 Random Password Generator
+
+---
+
+## 📈 Currently Working On
+
+* Solving DSA problems using Java
+* Learning Backend (Node.js & APIs)
+* Building Full Stack Projects
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: www.linkedin.com/in/swikruti
+*GFG
+
+
