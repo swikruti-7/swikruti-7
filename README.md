@@ -51,6 +51,7 @@
 ## 📫 Connect with me
 
 * LinkedIn: www.linkedin.com/in/swikruti
-*GFG
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swikruti-7&show_icons=true&theme=radical)
 
 
